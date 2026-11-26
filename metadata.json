@@ -1,0 +1,6 @@
+{
+  "name": "EMRefract Lab",
+  "description": "Ứng dụng mô phỏng và nhận dạng đặc tính truyền sóng của khúc xạ sóng điện từ theo định luật Snell và phương trình Fresnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
