@@ -1,0 +1,8 @@
+{
+  "firestore": {
+    "databaseId": "ai-studio-emrefractlab-ab69d8c7-66a1-4261-a15d-ee27ac4aa09c",
+    "rules": "firestore.rules",
+    "edition": "ENTERPRISE",
+    "dataAccessMode": "FIRESTORE_NATIVE"
+  }
+}
