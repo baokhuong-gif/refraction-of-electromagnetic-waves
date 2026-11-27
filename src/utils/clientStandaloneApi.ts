@@ -16,7 +16,7 @@ const GEMINI_KEY_STORAGE = 'emrefract_gemini_api_key';
 const MEASUREMENTS_STORAGE = 'emrefract_local_measurements_v1';
 const SEARCH_HISTORY_STORAGE = 'emrefract_local_search_history_v1';
 
-export const STANDALONE_CLIENT_MODEL = 'gemini-2.5-flash';
+export const STANDALONE_CLIENT_MODEL = 'gemini-3.8-flash';
 
 export function getStoredGeminiApiKey(): string {
   try {
